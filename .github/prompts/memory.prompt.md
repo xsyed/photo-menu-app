@@ -1,0 +1,1 @@
+Write everything we did so far to progress.md, ensure to note the approach we're taking for the current task, the steps we've done so far, and the current failure we're working on
