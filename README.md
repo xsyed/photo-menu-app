@@ -12,6 +12,9 @@ A lightweight Android app built with Expo and React Native that allows users to 
 - 🍔 **Burger App Icon**: Custom burger-themed app icon for Android
 - 🔒 **Privacy First**: No network permissions, all data stays on device
 
+## Download latest APK from the latest Release:
+[Latest release](https://github.com/xsyed/photo-menu-app/releases/latest)
+
 ## Installation
 
 1. Clone the repository:
